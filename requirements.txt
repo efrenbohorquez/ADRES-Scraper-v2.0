@@ -1,0 +1,40 @@
+# =====================================================
+# ADRES Scraper - Dependencias Optimizadas v2.0
+# Web Scraping Ético para Documentos ADRES
+# =====================================================
+
+# Core Web Scraping
+# ------------------
+requests>=2.31.0        # Peticiones HTTP con timeout y retry
+beautifulsoup4>=4.12.2  # Parsing HTML optimizado
+lxml>=4.9.3            # Parser XML/HTML de alto rendimiento
+
+# MongoDB & Database
+# ------------------
+pymongo>=4.6.0         # Driver MongoDB con GridFS
+motor>=3.3.2           # Pymongo asíncrono (opcional)
+
+# Data Processing
+# ---------------
+pandas>=2.0.3          # Análisis de datos y metadatos
+jsonschema>=4.17.3     # Validación de configuraciones
+
+# Utilities
+# ---------
+python-dateutil>=2.8.2 # Manejo de fechas y timestamps
+# Development & Testing (Opcional)
+# ---------------------------------
+pytest>=7.4.0         # Framework de testing
+black>=23.7.0          # Formateador de código
+mypy>=1.5.1           # Type checking
+
+# Optional Enhancements
+# ---------------------
+rich>=13.0.0          # Output colorizado y progreso visual
+click>=8.1.0          # CLI interface (para scripts avanzados)
+
+# Database - MongoDB Integration
+# ------------------------------
+pymongo>=4.5.0         # Driver oficial de MongoDB para Python
+dnspython>=2.4.2       # Resolución DNS para conexiones MongoDB
+motor>=3.3.1          # Driver asíncrono de MongoDB (opcional)

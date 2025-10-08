@@ -1,0 +1,53 @@
+{
+  "mongodb": {
+    "connection_string": "mongodb+srv://usuario:password@cluster.mongodb.net/",
+    "database_name": "adres_scraper",
+    "collections": {
+      "documentos": "documentos_adres",
+      "pdfs": "pdfs_adres",
+      "metadatos": "metadatos_scraping",
+      "estadisticas": "estadisticas_descarga"
+    },
+    "gridfs": {
+      "bucket_name": "pdfs_bucket",
+      "chunk_size": 261120
+    }
+  },
+  "scraping": {
+    "delay_between_requests": 2.0,
+    "max_retries": 3,
+    "timeout": 30,
+    "user_agent": "ADRES-Scraper/2.0 (+https://github.com/tu-usuario/adres-scraper)",
+    "respect_robots_txt": true,
+    "max_concurrent_downloads": 3
+  },
+  "paths": {
+    "output_directory": "web_scraping_adres_output",
+    "logs_directory": "logs",
+    "cache_directory": "data/cache",
+    "downloads_directory": "data/downloads"
+  },
+  "urls": {
+    "adres_base": "https://www.adres.gov.co",
+    "resoluciones": "https://www.adres.gov.co/biblioteca-y-publicaciones/resoluciones"
+  },
+  "ethical": {
+    "respect_delays": true,
+    "check_robots_txt": true,
+    "max_requests_per_minute": 20,
+    "identify_user_agent": true,
+    "log_all_requests": true
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file_handler": true,
+    "console_handler": true
+  },
+  "validation": {
+    "validate_pdf_integrity": true,
+    "min_pdf_size_bytes": 1024,
+    "max_pdf_size_mb": 50,
+    "allowed_content_types": ["application/pdf", "application/octet-stream"]
+  }
+}

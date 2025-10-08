@@ -1,0 +1,1 @@
+# Módulo MongoDB del ADRES Scraper

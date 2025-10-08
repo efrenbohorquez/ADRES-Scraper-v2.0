@@ -1,0 +1,42 @@
+# Licencia MIT
+
+**Copyright (c) 2024 Taller de Big Data - Web Scraping Ético ADRES**
+
+Por la presente se concede permiso, libre de cargos, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), a utilizar el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar, y/o vender copias del Software, y a permitir a las personas a las que se les proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR E INCUMPLIMIENTO. EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEAN EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, DERIVADAS DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O SU USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE.
+
+## Términos Específicos para Uso Educativo
+
+### Uso Permitido
+- ✅ **Fines académicos y educativos**: Libre uso en instituciones educativas
+- ✅ **Investigación**: Uso para investigación académica y científica  
+- ✅ **Aprendizaje**: Modificación y experimentación con fines de aprendizaje
+- ✅ **Enseñanza**: Uso como material didáctico en cursos y talleres
+
+### Responsabilidades del Usuario
+- ⚖️ **Cumplimiento legal**: El usuario es responsable de cumplir con las leyes locales
+- 🌐 **Términos de sitios web**: Respetar los términos de uso de sitios web objetivo
+- 🛡️ **Principios éticos**: Mantener los principios éticos establecidos en el proyecto
+- 📝 **Atribución**: Mencionar la fuente original al usar o distribuir el código
+
+### Descargo de Responsabilidad Específico
+
+Este software está diseñado específicamente para **fines educativos** en el contexto de un taller de Big Data. Los autores no se hacen responsables por:
+
+- Uso indebido del software para violar términos de servicio de sitios web
+- Daños causados por uso no ético del web scraping
+- Violaciones de privacidad o protección de datos
+- Sobrecarga de servidores por uso inapropiado
+
+### Reconocimientos
+
+Este proyecto utiliza las siguientes librerías de código abierto:
+- **requests**: Librería HTTP para Python (Apache License 2.0)
+- **Beautiful Soup**: Librería de parsing HTML/XML (MIT License)
+- **lxml**: Procesador XML y HTML (BSD License)
+- **pandas**: Análisis de datos (BSD License)
+
+Agradecemos a la comunidad de código abierto por hacer posible este proyecto educativo.
