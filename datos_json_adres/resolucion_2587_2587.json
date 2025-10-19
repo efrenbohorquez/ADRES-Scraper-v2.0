@@ -1,0 +1,41 @@
+{
+  "url_original": "https://normograma.adres.gov.co/adres/docs/resolucion_2587_2012.htm",
+  "titulo": "RESOLUCIÓN NÚMERO 2587 DE 2012 - Auditoría para el Mejoramiento",
+  "fecha_extraccion": "2025-10-06T21:46:38.703715",
+  "contenido": {
+    "texto_completo": "RESOLUCIÓN NÚMERO 2587 DE 2012 POR LA CUAL SE ESTABLECEN LAS DIRECTRICES PARA LA AUDITORÍA PARA EL MEJORAMIENTO DE LA CALIDAD ARTÍCULO 1° La auditoría para el mejoramiento de la calidad es el mecanismo sistemático y continuo de evaluación del cumplimiento de estándares de calidad. ARTÍCULO 2° Los componentes de la auditoría incluyen: Autocontrol Auditoría interna Auditoría externa Acciones de mejoramiento ARTÍCULO 3° Las EPS, IPS y demás actores del Sistema General de Seguridad Social en Salud implementarán procesos de auditoría para el mejoramiento. Fecha de expedición: 20 de diciembre de 2012",
+    "longitud_caracteres": 601,
+    "longitud_palabras": 92,
+    "html_original": "\n        <h1>RESOLUCIÓN NÚMERO 2587 DE 2012</h1>\n        <p><strong>POR LA CUAL SE ESTABLECEN LAS DIRECTRICES PARA LA AUDITORÍA PARA EL MEJORAMIENTO DE LA CALIDAD</strong></p>\n        \n        <h2>ARTÍCULO 1°</h2>\n        <p>La auditoría para el mejoramiento de la calidad es el mecanismo sistemático y continuo de evaluación del cumplimiento de estándares de calidad.</p>\n        \n        <h2>ARTÍCULO 2°</h2>\n        <p>Los componentes de la auditoría incluyen:</p>\n        <ul>\n            <li>Autocontrol</li>\n            <li>Auditoría interna</li>\n            <li>Auditoría externa</li>\n            <li>Acciones de mejoramiento</li>\n        </ul>\n        \n        <h2>ARTÍCULO 3°</h2>\n        <p>Las EPS, IPS y demás actores del Sistema General de Seguridad Social en Salud implementarán procesos de auditoría para el mejoramiento.</p>\n        \n        <p><em>Fecha de expedición: 20 de diciembre de 2012</em></p>\n        "
+  },
+  "metadatos": {
+    "tipo_documento": "resolucion_adres",
+    "fuente": "normograma.adres.gov.co",
+    "numero_resolucion": "2587",
+    "año": 2587,
+    "fecha_documento": "20 de diciembre de 2012"
+  },
+  "analisis": {
+    "palabras_clave_encontradas": [
+      "salud",
+      "calidad",
+      "auditoría",
+      "eps",
+      "ips",
+      "resolución",
+      "artículo",
+      "estándar"
+    ],
+    "total_palabras_clave": 8,
+    "numero_articulos": 3,
+    "contiene_lista": false,
+    "es_resolucion": true,
+    "categoria_principal": "auditoria_calidad"
+  },
+  "procesamiento": {
+    "version_sistema": "demo_1.0",
+    "fecha_procesamiento": "2025-10-06T21:46:38.703715",
+    "estado": "procesado_exitosamente",
+    "metodo_extraccion": "simulacion_local"
+  }
+}

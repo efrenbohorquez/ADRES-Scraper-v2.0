@@ -1,0 +1,17 @@
+{
+    "mongodb_atlas": {
+        "connection_string": "mongodb+srv://usuario:password@cluster0.xxxxx.mongodb.net/",
+        "database": "taller_adres_bigdata",
+        "collection": "documentos_guias_adres",
+        "configurado": false,
+        "instrucciones": [
+            "1. Ve a https://cloud.mongodb.com y crea una cuenta",
+            "2. Crear cluster gratuito M0",
+            "3. En 'Database Access': crear usuario con password",
+            "4. En 'Network Access': agregar IP 0.0.0.0/0",
+            "5. En 'Clusters': click 'Connect' > 'Connect your application'",
+            "6. Copiar connection string y reemplazar <password> con tu password real",
+            "7. Editar este archivo y cambiar 'configurado' a true"
+        ]
+    }
+}

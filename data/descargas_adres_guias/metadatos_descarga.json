@@ -1,0 +1,26 @@
+{
+  "fecha_proceso": "2025-10-06T22:33:40.584463",
+  "url_objetivo": "https://normograma.adres.gov.co/compilacion/aprende_adres_guias.html",
+  "directorio_descargas": "data/descargas_adres_guias",
+  "total_archivos_descargados": 2,
+  "archivos": [
+    {
+      "nombre_archivo": "20251006_223334_DOC_ADRES_0002_2024.pdf",
+      "ruta_local": "data/descargas_adres_guias\\pdfs\\20251006_223334_DOC_ADRES_0002_2024.pdf",
+      "url_original": "https://normograma.adres.gov.co/compilacion/docs/archivosExternos/DOC_ADRES_0002_2024.pdf",
+      "tipo_archivo": ".pdf",
+      "texto_enlace": "home_workReconocimiento y pago de reclamaciones y su repeticiónConsultarnavigate_next",
+      "fecha_descarga": "2025-10-06T22:33:37.458059",
+      "tamaño_bytes": 864685
+    },
+    {
+      "nombre_archivo": "20251006_223337_DOC_ADRES_0001_2024.pdf",
+      "ruta_local": "data/descargas_adres_guias\\pdfs\\20251006_223337_DOC_ADRES_0001_2024.pdf",
+      "url_original": "https://normograma.adres.gov.co/compilacion/docs/archivosExternos/DOC_ADRES_0001_2024.pdf",
+      "tipo_archivo": ".pdf",
+      "texto_enlace": "home_workAcción de Tutela contra la ADRES : Cuándo ProcedeConsultarnavigate_next",
+      "fecha_descarga": "2025-10-06T22:33:40.581908",
+      "tamaño_bytes": 1813614
+    }
+  ]
+}
